@@ -1,5 +1,6 @@
-### Hi there 👋
-See my ![LinkdIn](https://www.linkedin.com/in/chayma-guerrassi-33964312b/)
+[![Linkedin Badge](https://img.shields.io/badge/-ChaymaGuerrassi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chayma-guerrassi-33964312b/)](https://www.linkedin.com/in/chayma-guerrassi-33964312b/)
+[![Gmail Badge](https://img.shields.io/badge/-Chaymaa.guer-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chaymaa.guer@gmail.com)](mailto:chaymaa.guer@gmail.com)
+
 ![Hey there, I'm Chayma.](https://github.com/ChaymaGuerrassi/ChaymaGuerrassi/blob/main/Hello.gif)
 <!--
 **ChaymaGuerrassi/ChaymaGuerrassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
