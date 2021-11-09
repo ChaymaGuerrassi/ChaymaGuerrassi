@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/ChaymaGuerrassi/ChaymaGuerrassi/blob/main/Hello.gif)
+See my ![LinkdIn](https://www.linkedin.com/in/chayma-guerrassi-33964312b/)
+![Hey there, I'm Chayma.](https://github.com/ChaymaGuerrassi/ChaymaGuerrassi/blob/main/Hello.gif)
 <!--
 **ChaymaGuerrassi/ChaymaGuerrassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
